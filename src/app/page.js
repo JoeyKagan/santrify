@@ -8,13 +8,13 @@ export default function Page() {
       <div>
         <div className="container">
           <div className="row">
-            <div className="col-3">
+            <div className="col-4">
               <InformasiDana />
             </div>
-            <div className="col-3">
+            <div className="col-4">
               <JumlahSantri/>
             </div>
-            <div className="col-3">
+            <div className="col-4">
               <JumlahKamar/>
             </div>
             <div className="col-12"></div>
